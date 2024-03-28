@@ -1,7 +1,7 @@
 # 💫 About Me
 👋 Hey there! I'm Dashan Nadeema, a passionate software developer with a focus on full-stack development. Currently, I'm immersed in several exciting projects where I leverage the power of React on the frontend and Spring on the backend to craft robust, scalable solutions.<br><br>🚀 My journey in software engineering has been an exhilarating one, and I'm eagerly seeking new opportunities to apply my skills and contribute to innovative projects. I'm on the lookout for a full-time role as a frontend or full-stack developer where I can collaborate with like-minded individuals to build exceptional user experiences.<br><br>💡 Got questions about Java, spring or react? Feel free to reach out! Java has been a cornerstone of my development journey, and I'm always eager to share insights, troubleshoot challenges, or explore new concepts.<br><br>Let's connect and build something amazing together! 💻<br><br>
 
-
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_n.a.d.e.e.m.a_) 
 
